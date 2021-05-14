@@ -94,8 +94,8 @@ const IndexPage = () => {
 
   return (
     <main className={styles.indexStyles}>
-      <title>RCA 2021 Identity</title>
-      <h1>RCA 2021 Identity</h1>
+      <title>MatterJS / Gatsby</title>
+      <h1>MatterJS / Gatsby</h1>
       <div
         ref={boxRef}
         style={{
